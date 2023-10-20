@@ -1,0 +1,9 @@
+#list-group {
+    position: fixed; /* Fija el div en la ventana del navegador */
+    top: 0; /* Lo coloca en la parte superior */
+    right: 20px; /* Lo coloca en la posición deseada */
+    width: 200px;
+    background-color: #f0f0f0;
+    padding: 10px;
+    border: 1px solid #333;
+}
